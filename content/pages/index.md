@@ -9,31 +9,11 @@ sections:
       type: TitleBlock
     subtitle: be a gamer
     text: >+
-      Welcome to **PlayHub**, the ultimate destination for gamers of all kinds!
-      Whether you’re a competitive player aiming for the top of the leaderboard
-      or a casual gamer looking to unwind, PlayHub has something for everyone.
-      Immerse yourself in exciting adventures, epic quests, and thrilling
-      battles across a variety of genres.
-
-
-      At PlayHub, you can join multiplayer experiences, challenge your friends
-      in intense PvP duels, or team up in co-op modes to conquer powerful
-      bosses. With regular events and tournaments, there's always an opportunity
-      to test your skills and earn exclusive rewards. Customize your characters,
-      unlock new abilities, and upgrade your gear to stay ahead of the
-      competition.
-
-
-      Our dynamic community is at the heart of PlayHub, offering a space for
-      like-minded gamers to connect, share tips, and participate in various
-      challenges. With a wide range of game modes, immersive storylines, and
-      high-stakes gameplay, PlayHub is more than just a platform—it’s your
-      gateway to endless gaming adventures. So, whether you're seeking to rank
-      up, explore new worlds, or just have fun, PlayHub is here to make your
-      gaming experience unforgettable.
-
-
-      Join today, and let the games begin!
+      **PlayHub** is the ultimate destination for gamers. Join thrilling
+      multiplayer battles, embark on epic quests, and challenge your friends in
+      PvP or co-op modes. With exciting tournaments, customization options, and
+      exclusive rewards, PlayHub connects players, offering endless adventures,
+      competitive gameplay, and a vibrant community. Start playing today!
 
 
 
