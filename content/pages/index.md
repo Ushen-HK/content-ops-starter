@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to PŁA¥HỤƁ
+      text: Welcome to PŁA¥HỤƁ !
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
